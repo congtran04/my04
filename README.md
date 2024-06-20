@@ -346,3 +346,4 @@ Lương = Lương tối thiểuKix%
 x% là hệ số mềm nếu là đơn vị hành chính sự nghiệp có thu nhập: 1<x<=3)
 
 Lương cứng = Lương tối thiểu nhà nước*(1+K)
+(K = k1 +k2; k1: hệ số ngành; k2: hệ số vùng)
